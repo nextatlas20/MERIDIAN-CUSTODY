@@ -1,0 +1,5 @@
+zone_id	zone_name	permits_release
+COLD-A	Cold Vault	NO
+LAB-B	Preparation Lab	NO
+DOCK-C	Dispatch Dock	YES
+QUAR-Q	Quarantine Bay	NO
