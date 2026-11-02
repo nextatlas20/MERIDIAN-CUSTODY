@@ -1,0 +1,6 @@
+item_id	specimen	origin_zone	status	current_zone	applied_moves	release_event	last_applied_at
+SP-101	Amber vial	COLD-A	RELEASED	-	2	EV-13	2026-10-08T09:31:00Z
+SP-102	Reed sample	LAB-B	HELD	QUAR-Q	2	-	2026-10-08T09:40:00Z
+SP-103	Coral slide	COLD-A	RELEASED	-	1	EV-05	2026-10-08T09:15:00Z
+SP-104	Moss core	QUAR-Q	HELD	QUAR-Q	0	-	-
+SP-105	Quartz swab	LAB-B	RELEASED	-	2	EV-19	2026-10-08T09:51:00Z
